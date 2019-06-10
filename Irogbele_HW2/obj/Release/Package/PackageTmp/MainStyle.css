@@ -1,0 +1,43 @@
+﻿body {
+    background-color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.form{
+    background-color: antiquewhite;
+    margin-left: 200px;
+    border: solid 0.5px black;
+}
+#orderForm{
+    width: 800px;
+}
+#adminForm{
+    width: 800px;
+}
+#confirmationForm{
+    width: 800px;
+}
+#lbtnAdmin, #lbtnHome {
+    text-decoration: none;
+    background-color: #002060;
+    color: white;
+    text-align: center;
+}
+#lblWelcome{
+    float: right;
+}
+.container {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.footer{
+    height: 10px;
+}
+.order-button{
+    border: solid 1px black;
+}
+.order-button:hover {
+    background-color: aliceblue;
+}
+.navlink:hover {
+    background-color: darkcyan;
+}
